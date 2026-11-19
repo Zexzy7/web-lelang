@@ -1,0 +1,17 @@
+{
+  "name": "lelang-gp-5k",
+  "version": "1.0.0",
+  "description": "Real-time TikTok Live Raffle / Giveaway Platform with Google Gemini AI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "tiktok-live",
+    "raffle",
+    "auction",
+    "gemini-api"
+  ],
+  "author": "Bang Jeyssen",
+  "license": "MIT"
+}
